@@ -70,7 +70,7 @@ header {
     z-index: 99;
 }
 
-.header-menu ul li:hover > .menu-sub-section{
+.header-menu ul li:hover .menu-sub-section{
     top: 101%;
     visibility: visible;
     opacity: 1;
