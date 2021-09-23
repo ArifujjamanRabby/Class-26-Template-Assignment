@@ -1062,15 +1062,18 @@ header {
 .service-item{
     border: 1px solid #ddd;
     height: 160px;
-    padding: 20px 0;
+    padding: 25px 20px 20px;
     transition: .5s;
     background-color: #fff;
+    opacity: .5;
 }
 .service-item:hover{
-    background-color: #e8f1ff;
+    background-color: #dce6ff;
+    opacity: 1;
 }
 .service-item img{
     display: block;
+    width: 200px;
 }
 
 /* service section end */
